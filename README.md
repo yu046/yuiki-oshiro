@@ -13,3 +13,4 @@ Ruby,Python,Java　勉強中
 サーティファイ主催 Javaプログラミング能力認定試験 3級  
 Microsoft Office Specialist Excel 2016  
 LPI-JAPAN LinuC レベル1
+aasdfsafsadfsafd
